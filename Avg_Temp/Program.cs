@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            double[] dayTemp = { 7, 4, 5, 5, 4, 4, 4 };//defines the data
+            double[] dayTemp = { 7, 4, 5, 5, 4, 4, 10 };//defines the data
             double sum = 0;//gives a sum variable for adding up
             double maxTemp = dayTemp[0];
             double minTemp = dayTemp[0];
